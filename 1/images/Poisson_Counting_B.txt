@@ -1,0 +1,8 @@
+Average for 100 events: 5.15191
+Average for 200 events: 4.66471
+Average for 300 events: 4.71886
+Average for 500 events: 4.61717
+Average for 1000 events: 4.98296
+Average for 10000 events: 4.99382
+Average for 100000 events: 5.01452
+Average for 1000000 events: 5.00161

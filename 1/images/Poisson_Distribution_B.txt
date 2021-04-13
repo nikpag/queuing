@@ -1,0 +1,2 @@
+mean value of Poisson with lambda 30 is 30
+Variance of Poisson with lambda 30 is 30
