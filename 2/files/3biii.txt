@@ -1,0 +1,1 @@
+Average number of clients = 0.49921

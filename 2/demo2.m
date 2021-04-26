@@ -4,6 +4,7 @@
 clc;
 clear all;
 close all;
+pkg load queueing;
 
 lambda = 4;
 mu = 5;
