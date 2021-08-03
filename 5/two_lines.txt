@@ -1,1 +1,0 @@
-The minimum E(T) is equal to 0.000112357 sec (112.357 usec), for alpha = 0.604

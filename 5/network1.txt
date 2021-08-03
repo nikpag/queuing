@@ -1,7 +1,0 @@
-rho1 = 0.666667
-rho2 = 0.428571
-rho3 = 0.285714
-rho4 = 0.244898
-rho5 = 0.547619
-
-Average waiting time (end to end) = 0.93697 sec
